@@ -1,2 +1,2 @@
 # ExerciciosComR
-Alguns exercícios em R
+Some codes in the r language
